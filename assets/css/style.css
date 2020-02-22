@@ -1,4 +1,7 @@
-.heading {
+h1 {
     background-color: #4aaaa5;
-    
+    float: left;
+}
+body{
+    background-image: webb.png;
 }
