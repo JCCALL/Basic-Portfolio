@@ -5,11 +5,13 @@ body{
 }
 
 .content{
-    width: 960px;
-    margin-left: 250px;
-    margin-right: 250px;
+    
 }
-
+.heading{
+    background-color: #ffffff;
+    border: solid #cccccc;
+    width: 100%; 
+}
 
 
 
@@ -24,15 +26,44 @@ h2{
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
-.bio{
+.bio {
+    width: 960;
+    margin: 50px 250px -50px 250px;
     background-color: #ffffff;
     border: solid #dddddd;
     padding: 20px;
-    
 }
 .bio-pic{
     width: 200px;
     height: 200px;
     float: left;
     margin: 10px 20px 10px 0px;
+}
+.contact{
+    width: 960;
+    margin: 50px 250px -50px 250px;
+    background-color: #ffffff;
+    border: solid #dddddd;
+    padding: 20px;
+}
+
+.portfolio{
+    width: 960;
+    margin: 50px 250px -50px 250px;
+    background-color: #ffffff;
+    border: solid #dddddd;
+    padding: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: #666666;
+    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    padding-top: 30px;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+
+}
+.push{
+    height: 50px;
 }
