@@ -30,18 +30,26 @@ h1 {
     
 }
 .link{
-    color:#777777;
+    color: #b8c7d9;
     clear: both;
     display: inline-block;
+    margin: 25px 0px 0px 400px;
+    padding: 20px 0px;
+    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
 }
 .index{
-
+    border-right: 1px solid #b8c7d9;
+    padding: 0px 20px;
+    color: #b8c7d9 ;
 }
-.content-page{
-
+.contact-page{
+    color:#b8c7d9;
+    padding: 0px 20px;
 }
 .portfolio-page{
-
+    border-right: 1px solid #b8c7d9;
+    color:#b8c7d9;
+    padding: 0px 20px;
 }
 h2{
     color: #4aaaa5;
@@ -100,15 +108,43 @@ input[type=submit]:hover{
     border: solid #dddddd;
     padding: 20px;
 }
+.portfolio-pics{
+    
+}
+.pic1{
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 20px 0px;
+}
+.pic2{
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 20px 0px;
+}
+.pic3{
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 20px 0px;
+}
+.pic4{
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 20px 0px;
+}
+.pic5{
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 20px 0px;
+}
 .footer{
     text-align: center;
     vertical-align: text-bottom;
     background-color: #666666;
     font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
     color: #777777;
-    padding-top: 30px;
+    padding-top: 50px;
     border-top: 8px solid #4aaaa5;
-    height: 50px;
+    
 
 }
 .push{
