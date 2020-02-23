@@ -31,15 +31,17 @@ h1 {
 }
 .link{
     color:#777777;
+    clear: both;
+    display: inline-block;
 }
 .index{
 
 }
-.content{
+.content-page{
 
 }
-.portfolio{
-    
+.portfolio-page{
+
 }
 h2{
     color: #4aaaa5;
