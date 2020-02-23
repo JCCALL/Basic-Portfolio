@@ -26,6 +26,9 @@ h2{
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+hr{
+    border-top: 1px solid #cccccc;
+}
 .bio {
     width: 960;
     margin: 50px 250px -50px 250px;
@@ -46,7 +49,20 @@ h2{
     border: solid #dddddd;
     padding: 20px;
 }
+input[type=text]{
 
+}
+input[type=email]{
+
+}
+input[type=submit]{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+
+}
 .portfolio{
     width: 960;
     margin: 50px 250px -50px 250px;
@@ -65,5 +81,5 @@ h2{
 
 }
 .push{
-    height: 50px;
+    height: 100px;
 }
