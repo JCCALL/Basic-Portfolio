@@ -115,10 +115,20 @@ input[type=submit]:hover{
     margin: 20px 20px 20px 0px;
 }
 .pic1a{
-    position: absolute;
+   
+}
+.site-one{
     background: #4aaaa5;
+    height: 20px;
+    width: 300px;
+    margin: 0px;
     text-align: center;
+    padding: 20px 0px;
+    position: absolute;
     top: 50%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    font-size: 20px;
 }
 .pic2{
     width: 300px;
@@ -126,26 +136,71 @@ input[type=submit]:hover{
     margin: 20px 20px 20px 0px;
 }
 .pic2a{
-    position: absolute;
-    background: #4aaaa5;
-    text-align: center;
-    top: 80%;
+   
 }
+.site-two{
+    background: #4aaaa5;
+    height: 20px;
+    width: 300px;
+    margin: 0px;
+    text-align: center;
+    padding: 20px 0px;
+    position: absolute;
+    top: 50%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    font-size: 20px;
 .pic3{
     width: 300px;
     height: 200px;
     margin: 20px 20px 20px 0px;
 }
+.site-three{
+    background: #4aaaa5;
+    height: 20px;
+    width: 300px;
+    margin: 0px;
+    text-align: center;
+    padding: 20px 0px;
+    position: absolute;
+    top: 50%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    font-size: 20px;
 .pic4{
     width: 300px;
     height: 200px;
     margin: 20px 20px 20px 0px;
 }
+.site-four{
+    background: #4aaaa5;
+    height: 20px;
+    width: 300px;
+    margin: 0px;
+    text-align: center;
+    padding: 20px 0px;
+    position: absolute;
+    top: 50%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    font-size: 20px;
 .pic5{
     width: 300px;
     height: 200px;
     margin: 20px 20px 20px 0px;
 }
+.site-five{
+    background: #4aaaa5;
+    height: 20px;
+    width: 300px;
+    margin: 0px;
+    text-align: center;
+    padding: 20px 0px;
+    position: absolute;
+    top: 50%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    font-size: 20px;
 .footer{
     text-align: center;
     vertical-align: text-bottom;
