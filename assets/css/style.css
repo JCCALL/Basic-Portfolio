@@ -133,7 +133,7 @@ input[type=submit]:hover{
     margin: 20px 0px 0px 0px;
 }
 .pic1a{
-   
+   position: relative;
 }
 .site-one{
     background: #4aaaa5;
@@ -142,8 +142,8 @@ input[type=submit]:hover{
     margin: 0px;
     text-align: center;
     padding: 20px 0px;
-    position: relative;
-    top: -30%;
+    position: absolute;
+    top: 55%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 20px;
@@ -155,7 +155,7 @@ input[type=submit]:hover{
     z-index: -1;
 }
 .pic2a{
-   
+   position: relative;
 }
 .site-two{
     background: #4aaaa5;
@@ -164,8 +164,8 @@ input[type=submit]:hover{
     margin: 0px;
     text-align: center;
     padding: 20px 0px;
-    position: relative;
-    top: -30%;
+    position: absolute;
+    top: 55%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 20px;
@@ -175,6 +175,9 @@ input[type=submit]:hover{
     height: 200px;
     
 }
+.pic3a{
+    position: relative;
+ }
 .site-three{
     background: #4aaaa5;
     height: 20px;
@@ -182,8 +185,8 @@ input[type=submit]:hover{
     margin: 0px;
     text-align: center;
     padding: 20px 0px;
-    position: relative;
-    top: -30%;
+    position: absolute;
+    top: 55%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 20px;
@@ -193,6 +196,9 @@ input[type=submit]:hover{
     height: 200px;
     
 }
+.pic4a{
+    position: relative;
+ }
 .site-four{
     background: #4aaaa5;
     height: 20px;
@@ -200,8 +206,8 @@ input[type=submit]:hover{
     margin: 0px;
     text-align: center;
     padding: 20px 0px;
-    position: relative;
-    top: -30%;
+    position: absolute;
+    top: 55%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 20px;
@@ -211,6 +217,9 @@ input[type=submit]:hover{
     height: 200px;
     
 }
+.pic5a{
+    position: relative;
+ }
 .site-five{
     background: #4aaaa5;
     height: 20px;
@@ -218,8 +227,8 @@ input[type=submit]:hover{
     margin: 0px;
     text-align: center;
     padding: 20px 0px;
-    position: relative;
-    top: -30%;
+    position: absolute;
+    top: 55%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     font-size: 20px;
@@ -232,10 +241,9 @@ input[type=submit]:hover{
     color: #777777;
     padding-top: 50px;
     border-top: 8px solid #4aaaa5;
-    position: sticky;
-    top: 0;
+    
 
 }
 .push{
-    height: 300px;
+    height: 200px;
 }
