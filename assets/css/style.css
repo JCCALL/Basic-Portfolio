@@ -57,7 +57,7 @@ hr{
     border-top: 1px solid #cccccc;
 }
 .bio {
-    width: 960;
+    width: 960px;
     margin: 50px 250px -50px 250px;
     background-color: #ffffff;
     border: solid #dddddd;
@@ -70,7 +70,7 @@ hr{
     margin: 10px 20px 10px 0px;
 }
 .contact{
-    width: 960;
+    width: 960px;
     margin: 50px 250px -50px 250px;
     background-color: #ffffff;
     border: solid #dddddd;
@@ -100,7 +100,7 @@ input[type=submit]:hover{
     background-color: #397c79;
 }
 .portfolio{
-    width: 960;
+    width: 960px;
     margin: 50px 250px -50px 250px;
     background-color: #ffffff;
     border: solid #dddddd;
