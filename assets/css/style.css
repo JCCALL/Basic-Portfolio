@@ -28,27 +28,35 @@ h1 {
     
 }
 .link{
-    color: #b8c7d9;
-    clear: both;
-    display: inline-block;
-    margin: 25px 0px 0px 445px;
-    padding: 20px 0px;
+    color: #777777;
+    float: right;
+    margin-top: 33px;
+    margin-right: 24%;
     font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
     font-size: 20px;
 }
 .index{
-    border-right: 1px solid #b8c7d9;
+    border-right: 1px solid #777777;
     padding: 0px 20px;
-    color: #b8c7d9 ;
+    color: #777777 ;
+    text-decoration: none;
 }
 .contact-page{
-    color:#b8c7d9;
+    color:#777777;
     padding: 0px 20px;
+    text-decoration: none;
 }
 .portfolio-page{
-    border-right: 1px solid #b8c7d9;
-    color:#b8c7d9;
+    border-right: 1px solid #777777;
+    color: #777777;
     padding: 0px 20px;
+    text-decoration: none;
+}
+
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: block;
 }
 h2{
     color: #4aaaa5;
@@ -130,7 +138,7 @@ input[type=submit]:hover{
 .pic1{
     width: 300px;
     height: 200px;
-    margin: 20px 0px 0px 0px;
+    margin: 20px 0px 20px 0px;
 }
 .pic1a{
    position: relative;
@@ -151,8 +159,7 @@ input[type=submit]:hover{
 .pic2{
     width: 300px;
     height: 200px;
-    margin: 20px 0px 0px 0px;
-    z-index: -1;
+    margin: 20px 0px 20px 0px;
 }
 .pic2a{
    position: relative;
@@ -173,7 +180,7 @@ input[type=submit]:hover{
 .pic3{
     width: 300px;
     height: 200px;
-    
+    margin-bottom: 20px;
 }
 .pic3a{
     position: relative;
@@ -194,7 +201,7 @@ input[type=submit]:hover{
 .pic4{
     width: 300px;
     height: 200px;
-    
+    margin-bottom: 20px;
 }
 .pic4a{
     position: relative;
@@ -215,7 +222,7 @@ input[type=submit]:hover{
 .pic5{
     width: 300px;
     height: 200px;
-    
+    margin-bottom: 20px;
 }
 .pic5a{
     position: relative;
