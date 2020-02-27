@@ -83,6 +83,10 @@ hr{
     float: left;
     margin: 10px 20px 10px 0px;
 }
+.qoute{
+    font-style: italic;
+    text-align: center;
+}
 .contact{
     width: 960px;
     margin: 50px 250px -50px 250px;
