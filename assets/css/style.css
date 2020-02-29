@@ -82,6 +82,7 @@ hr{
     height: 200px;
     float: left;
     margin: 10px 20px 10px 0px;
+    border: solid 1px #0077da;
 }
 .qoute{
     font-style: italic;
