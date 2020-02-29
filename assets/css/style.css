@@ -8,7 +8,7 @@ body{
     
 }
 .heading{
-    background-color: #ffffff;
+    background-color: #f9fbff;
     border: solid #cccccc;
     width: 100%; 
     height: 100px;
@@ -64,13 +64,13 @@ h2{
     font-size: 25px;
 }
 hr{
-    border-top: 1px solid #02137b;
+    border-top: 5px solid #02137b;
 }
 .bio {
     width: 960px;
     margin: 50px 250px -50px 250px;
     background-color: #f9fbff;
-    border: solid #747474;
+    border: solid 4px #747474;
     padding: 20px;
     color: #707070;
     font-family: 'Simonetta';
@@ -91,8 +91,8 @@ hr{
 .contact{
     width: 960px;
     margin: 50px 250px -50px 250px;
-    background-color: #ffffff;
-    border: solid #dddddd;
+    background-color: #f9fbff;
+    border: solid 4px #747474;
     padding: 20px;
 }
 input[type=text], textarea{
@@ -118,20 +118,20 @@ input[type=email]{
     font-size: 15px;
 }
 input[type=submit]{
-    background-color: #4aaaa5;
+    background-color: #02137b;
     color: #ffffff;
     padding: 10px 20px;
     font-family: 'Simonetta';
     cursor: pointer;
 }
 input[type=submit]:hover{
-    background-color: #397c79;
+    background-color: #54576b;
 }
 .portfolio{
     width: 960px;
     margin: 50px 250px -50px 250px;
-    background-color: #ffffff;
-    border: solid #dddddd;
+    background-color: #f9fbff;
+    border: solid 4px #747474;
     padding: 20px;
 }
 .portfolio-pics{
@@ -149,7 +149,7 @@ input[type=submit]:hover{
    position: relative;
 }
 .site-one{
-    background: #4aaaa5;
+    background: #02137b;
     height: 20px;
     width: 300px;
     margin: 0px;
@@ -158,7 +158,7 @@ input[type=submit]:hover{
     position: absolute;
     top: 55%;
     font-family: 'Playfair Display SC';
-    color: #ffffff;
+    color: #cacaca;
     font-size: 20px;
     
 }
@@ -171,7 +171,7 @@ input[type=submit]:hover{
    position: relative;
 }
 .site-two{
-    background: #4aaaa5;
+    background: #02137b;
     height: 20px;
     width: 300px;
     margin: 0px;
@@ -180,7 +180,7 @@ input[type=submit]:hover{
     position: absolute;
     top: 55%;
     font-family: 'Playfair Display SC';
-    color: #ffffff;
+    color: #cacaca;
     font-size: 20px;
 }    
 .pic3{
@@ -192,7 +192,7 @@ input[type=submit]:hover{
     position: relative;
  }
 .site-three{
-    background: #4aaaa5;
+    background: #02137b;
     height: 20px;
     width: 300px;
     margin: 0px;
@@ -201,7 +201,7 @@ input[type=submit]:hover{
     position: absolute;
     top: 55%;
     font-family: 'Playfair Display SC';
-    color: #ffffff;
+    color: #cacaca;
     font-size: 20px;
 }
 .pic4{
@@ -213,7 +213,7 @@ input[type=submit]:hover{
     position: relative;
  }
 .site-four{
-    background: #4aaaa5;
+    background: #02137b;
     height: 20px;
     width: 300px;
     margin: 0px;
@@ -222,7 +222,7 @@ input[type=submit]:hover{
     position: absolute;
     top: 55%;
     font-family: 'Playfair Display SC';
-    color: #ffffff;
+    color: #cacaca;
     font-size: 20px;
 }
 .pic5{
@@ -234,7 +234,7 @@ input[type=submit]:hover{
     position: relative;
  }
 .site-five{
-    background: #4aaaa5;
+    background: #02137b;
     height: 20px;
     width: 300px;
     margin: 0px;
@@ -243,7 +243,7 @@ input[type=submit]:hover{
     position: absolute;
     top: 55%;
     font-family: 'Playfair Display SC';
-    color: #ffffff;
+    color: #cacaca;
     font-size: 20px;
 }
 .footer{
@@ -251,9 +251,9 @@ input[type=submit]:hover{
     vertical-align: text-bottom;
     background-color: #666666;
     font-family: 'Playfair Display SC';
-    color: #777777;
+    color: #b9b9b9;
     padding-top: 50px;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #02137b;
     position: fixed;
     width: 100%;
     left: 0;
