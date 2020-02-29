@@ -18,9 +18,9 @@ body{
 
 
 h1 {
-    background-color: #4aaaa5;
+    background-color: #02137b;
     color: #ffffff;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     margin: 25px 0px 0px 250px;
     float: left;
     padding: 20px;
@@ -32,7 +32,7 @@ h1 {
     position: absolute;
     margin-top:40px;
     margin-left: 930px;
-    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Simonetta';
     font-size: 20px;
 }
 .index{
@@ -59,21 +59,21 @@ h1 {
     display: block;
 }
 h2{
-    color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #02137b;
+    font-family: 'Playfair Display SC';
     font-size: 25px;
 }
 hr{
-    border-top: 1px solid #cccccc;
+    border-top: 1px solid #02137b;
 }
 .bio {
     width: 960px;
     margin: 50px 250px -50px 250px;
-    background-color: #ffffff;
-    border: solid #dddddd;
+    background-color: #f9fbff;
+    border: solid #747474;
     padding: 20px;
-    color: #777777;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #707070;
+    font-family: 'Simonetta';
     font-size: 20px;
 }
 
@@ -86,6 +86,7 @@ hr{
 .qoute{
     font-style: italic;
     text-align: center;
+    color: #0077da;
 }
 .contact{
     width: 960px;
@@ -100,7 +101,7 @@ input[type=text], textarea{
     border: 1px solid #cccccc;
     resize: vertical;
     margin: 10px 0px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Simonetta';
     font-size: 15px;
 
 }
@@ -113,14 +114,14 @@ input[type=email]{
     border: 1px solid #cccccc;
     resize: vertical
     margin: 10px 0px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Simonetta';
     font-size: 15px;
 }
 input[type=submit]{
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 10px 20px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Simonetta';
     cursor: pointer;
 }
 input[type=submit]:hover{
@@ -156,7 +157,7 @@ input[type=submit]:hover{
     padding: 20px 0px;
     position: absolute;
     top: 55%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     color: #ffffff;
     font-size: 20px;
     
@@ -178,7 +179,7 @@ input[type=submit]:hover{
     padding: 20px 0px;
     position: absolute;
     top: 55%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     color: #ffffff;
     font-size: 20px;
 }    
@@ -199,7 +200,7 @@ input[type=submit]:hover{
     padding: 20px 0px;
     position: absolute;
     top: 55%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     color: #ffffff;
     font-size: 20px;
 }
@@ -220,7 +221,7 @@ input[type=submit]:hover{
     padding: 20px 0px;
     position: absolute;
     top: 55%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     color: #ffffff;
     font-size: 20px;
 }
@@ -241,7 +242,7 @@ input[type=submit]:hover{
     padding: 20px 0px;
     position: absolute;
     top: 55%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Playfair Display SC';
     color: #ffffff;
     font-size: 20px;
 }
@@ -249,7 +250,7 @@ input[type=submit]:hover{
     text-align: center;
     vertical-align: text-bottom;
     background-color: #666666;
-    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Playfair Display SC';
     color: #777777;
     padding-top: 50px;
     border-top: 8px solid #4aaaa5;
